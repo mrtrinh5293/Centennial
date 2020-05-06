@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>AddClub</title>
+</head>
+<body>
+    <header class="masthead">
+        <section class="min-vh-100">
+            <div class="container h-100 ">
+                <div class="row h-100 align-items-center justify-content-center text-center ">
+                    <div class="col-lg-10 align-self-end background">
+                        <h1 class="text-uppercase text-white font-weight-bold">Welcome to Duc Dang Soccer Management</h1>
+                        <hr class="divider my-4">
+                    </div>
+                    <div class="col-lg-8 align-self-baseline background">
+                        <p class="text-white font-weight-bold mb-5">Everything You Need to Run Your Soccer Club or League. Just Add Players. </p>
+                        @if (!User.Identity.IsAuthenticated)
+                        {
+                            <a class="btn btn-primary" asp-action="ClubDetailsViews">View Avaiable Clubs</a>
+                        }
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <a class="btn btn-primary" asp-controller="Admin" asp-action="ClubDetailsViews">View Avaiable Clubs</a>
+                        }
+                        @*<a class="btn btn-primary" asp-action="AddClubViews">Add Club</a>*@
+                        @*<a class="btn btn-primary" asp-controller="Players" asp-action="PlayerListTest">Player List(Testing)</a>*@
+                    </div>
+                </div>
+            </div>
+</section>
+    </header>
+    </body>
+</html>

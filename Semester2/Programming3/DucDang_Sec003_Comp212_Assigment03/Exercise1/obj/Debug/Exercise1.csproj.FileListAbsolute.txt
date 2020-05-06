@@ -1,0 +1,14 @@
+C:\Users\mrtri\source\repos\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\mrtri\source\repos\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\mrtri\source\repos\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\mrtri\source\repos\Exercise1\Exercise1\obj\Debug\Exercise1.csprojAssemblyReference.cache
+C:\Users\mrtri\source\repos\Exercise1\Exercise1\obj\Debug\MainWindow.g.cs
+C:\Users\mrtri\source\repos\Exercise1\Exercise1\obj\Debug\App.g.cs
+C:\Users\mrtri\source\repos\Exercise1\Exercise1\obj\Debug\Exercise1_MarkupCompile.cache
+C:\Users\mrtri\source\repos\Exercise1\Exercise1\obj\Debug\Exercise1_MarkupCompile.lref
+C:\Users\mrtri\source\repos\Exercise1\Exercise1\obj\Debug\MainWindow.baml
+C:\Users\mrtri\source\repos\Exercise1\Exercise1\obj\Debug\Exercise1.g.resources
+C:\Users\mrtri\source\repos\Exercise1\Exercise1\obj\Debug\Exercise1.Properties.Resources.resources
+C:\Users\mrtri\source\repos\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.GenerateResource.cache
+C:\Users\mrtri\source\repos\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\mrtri\source\repos\Exercise1\Exercise1\obj\Debug\Exercise1.pdb

@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="~/css/test.css" />
+    <style>
+        .input-validation-error {
+            border-color: red;
+            background-color: #fee;
+        }
+    </style>
+</head>
+<body class="m-1 p-1">
+   
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3">
+        <div class="container">
+            <a class="navbar-brand" asp-controller="Home" asp-action="Index">
+                <img src="https://i.ibb.co/2d7kStn/soccer1.png" style="width:170px;height:110px; background-color: rgba(255,255,255,0.4)">
+                @*<img src="images/soccer1.png" style="width:170px;height:110px; background-color: rgba(255,255,255,0.4)" alt="">*@
+            </a>
+            <div class="collapse navbar-collapse">
+                @if (!User.Identity.IsAuthenticated)
+                {
+                    <ul class="navbar-nav ml-auto my-2 my-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-item nav-link active" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-item nav-link active" asp-controller="Home" asp-action="ClubDetailsViews">View Avaiable Clubs</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-item nav-link active" asp-controller="Account" asp-action="Login">Admin Login</a>
+                        </li>
+                        <li class="nav-item">
+                            @*<a class="nav-item nav-link active" asp-controller="Home" asp-action="AddPlayerViews">Add Player(temporary)</a>*@
+                        </li>
+                    </ul>
+                }
+                @if(User.Identity.IsAuthenticated)
+                {
+                <ul class="navbar-nav ml-auto my-2 my-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-item nav-link active" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-item nav-link active" asp-controller="Admin" asp-action="ClubDetailsViews">View Avaiable Clubs</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-item nav-link active" asp-action="Logout" asp-controller="Account">Logout</a>
+                    </li>
+                    <li class="nav-item">
+                        @*<a class="nav-item nav-link active" asp-controller="Home" asp-action="AddPlayerViews">Add Player(temporary)</a>*@
+                    </li>
+                </ul>
+                }
+                
+            </div>
+        </div>
+    </nav>
+    <div id="mainDiv">
+        @RenderBody()
+
+    </div>
+
+</body>
+</html>

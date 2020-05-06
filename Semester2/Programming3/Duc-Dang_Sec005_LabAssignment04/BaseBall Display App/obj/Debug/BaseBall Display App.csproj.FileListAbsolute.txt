@@ -1,0 +1,38 @@
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\bin\Debug\Baseball.mdf
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\bin\Debug\Baseball_log.ldf
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\bin\Debug\BaseBall Display App.exe.config
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\bin\Debug\BaseBall Display App.exe
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\bin\Debug\BaseBall Display App.pdb
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\bin\Debug\EntityFramework.dll
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\bin\Debug\Players.dll
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\bin\Debug\Players.pdb
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\bin\Debug\Players.dll.config
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\bin\Debug\EntityFramework.xml
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\obj\Debug\BaseBall Display App.csprojAssemblyReference.cache
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\obj\Debug\BaseBall_Display_App.Form1.resources
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\obj\Debug\BaseBall_Display_App.Properties.Resources.resources
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\obj\Debug\BaseBall Display App.csproj.GenerateResource.cache
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\obj\Debug\BaseBall Display App.csproj.CopyComplete
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\obj\Debug\BaseBall Display App.exe
+C:\Users\mrtri\source\repos\Exercise01\BaseBall Display App\obj\Debug\BaseBall Display App.pdb
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\bin\Debug\Baseball.mdf
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\bin\Debug\Baseball_log.ldf
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\bin\Debug\BaseBall Display App.exe.config
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\bin\Debug\BaseBall Display App.exe
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\bin\Debug\BaseBall Display App.pdb
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\bin\Debug\EntityFramework.dll
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\bin\Debug\Players.dll
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\bin\Debug\Players.pdb
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\bin\Debug\Players.dll.config
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\bin\Debug\EntityFramework.xml
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\obj\Debug\BaseBall Display App.csprojAssemblyReference.cache
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\obj\Debug\BaseBall_Display_App.Form1.resources
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\obj\Debug\BaseBall_Display_App.Properties.Resources.resources
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\obj\Debug\BaseBall Display App.csproj.GenerateResource.cache
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\obj\Debug\BaseBall Display App.csproj.CopyComplete
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\obj\Debug\BaseBall Display App.exe
+C:\Users\mrtri\source\repos\Duc-Dang_Sec005_LabAssignment04\BaseBall Display App\obj\Debug\BaseBall Display App.pdb

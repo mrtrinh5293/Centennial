@@ -1,0 +1,10 @@
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.csprojResolveAssemblyReference.cache
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.pdb
+C:\Users\14372\Documents\Centennial\Winter2020\Programming3\Week3\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.dll
+C:\Users\14372\Documents\Centennial\Winter2020\Programming3\Week3\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.pdb
+C:\Users\14372\Documents\Centennial\Winter2020\Programming3\Week3\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.csprojAssemblyReference.cache
+C:\Users\14372\Documents\Centennial\Winter2020\Programming3\Week3\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.dll
+C:\Users\14372\Documents\Centennial\Winter2020\Programming3\Week3\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.pdb

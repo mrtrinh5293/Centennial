@@ -1,0 +1,55 @@
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Books.mdf
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Books_log.ldf
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Exercise01.exe.config
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Exercise01.exe
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Exercise01.pdb
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Duc_Dang_COMP212_Sec003_Test02.dll
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\EntityFramework.dll
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Duc_Dang_COMP212_Sec003_Test02.pdb
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Duc_Dang_COMP212_Sec003_Test02.dll.config
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\EntityFramework.xml
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.csprojAssemblyReference.cache
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.Properties.Resources.resources
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.csproj.GenerateResource.cache
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.csproj.CopyComplete
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.exe
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.pdb
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.Form1.resources
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Exercise01.exe.config
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.exe
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.pdb
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Books.mdf
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Books_log.ldf
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Exercise01.exe
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Exercise01.pdb
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Duc_Dang_COMP212_Sec003_Test02.dll
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\EntityFramework.dll
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Duc_Dang_COMP212_Sec003_Test02.pdb
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\EntityFramework.xml
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.csprojResolveAssemblyReference.cache
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.Form1.resources
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.Properties.Resources.resources
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.csproj.GenerateResource.Cache
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Books.mdf
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Books_log.ldf
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Exercise01.exe.config
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Exercise01.exe
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Exercise01.pdb
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Duc_Dang_COMP212_Sec003_Test02.dll
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\EntityFramework.dll
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Duc_Dang_COMP212_Sec003_Test02.pdb
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\Duc_Dang_COMP212_Sec003_Test02.dll.config
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\EntityFramework.xml
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.csprojAssemblyReference.cache
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.Form1.resources
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.Properties.Resources.resources
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.csproj.GenerateResource.cache
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.csproj.CopyComplete
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.exe
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Exercise01\obj\Debug\Exercise01.pdb

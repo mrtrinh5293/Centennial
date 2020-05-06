@@ -1,0 +1,38 @@
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\Baseball.mdf
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\Baseball_log.ldf
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\BaseBall.dll.config
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\BaseBall.dll
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\BaseBall.pdb
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\EntityFramework.dll
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\EntityFramework.xml
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\BaseBall\obj\Debug\BaseBall.csprojAssemblyReference.cache
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\BaseBall\obj\Debug\BaseBall.csproj.CopyComplete
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\BaseBall\obj\Debug\BaseBall.dll
+C:\Users\mrtri\source\repos\Duc_Dang_COMP212_Sec003_Test02\BaseBall\obj\Debug\BaseBall.pdb
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\Baseball.mdf
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\Baseball_log.ldf
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\BaseBall.dll.config
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\BaseBall.dll
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\BaseBall.pdb
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\EntityFramework.dll
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\EntityFramework.xml
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\BaseBall\obj\Debug\BaseBall.dll
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\BaseBall\obj\Debug\BaseBall.pdb
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\BaseBall\obj\Debug\BaseBall.csprojResolveAssemblyReference.cache
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\Baseball.mdf
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\Baseball_log.ldf
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\BaseBall.dll.config
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\BaseBall.dll
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\BaseBall.pdb
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\EntityFramework.dll
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\EntityFramework.xml
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\BaseBall\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\BaseBall\obj\Debug\BaseBall.csprojAssemblyReference.cache
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\BaseBall\obj\Debug\BaseBall.csproj.CopyComplete
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\BaseBall\obj\Debug\BaseBall.dll
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\BaseBall\obj\Debug\BaseBall.pdb

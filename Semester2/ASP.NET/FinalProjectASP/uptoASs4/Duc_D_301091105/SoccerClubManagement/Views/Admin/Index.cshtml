@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Club>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!DOCTYPE html>
+
+<head>
+    <link href="~/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+
+</head>
+<title>AddClub</title>
+<body class="m-1 p-1">
+    <header class="masthead">
+        <section class="min-vh-100">
+            <div class="background">
+
+                <div class=" col-xl-5 col-lg-6 col-md-8 col-sm-10 mx-auto text-center p-4">
+                <h1 class="text-white"><a class="btn btn-primary" asp-action="AddClubViews">Add Club</a></h1>
+                    <table class="bg-white text-white table table-striped table-bordered table-sm">
+                        <tr class="bg-info">
+                            <th>Name</th>
+                            <th class="text-center">Actions</th>
+                        </tr>
+                        @foreach (Club c in Model)
+                        {
+                            <tr>
+                                <td><a class="" asp-controller="Admin" asp-action="ClubDetailsViews" asp-route-clubName="@c.ClubName">@c.ClubName</a></td>
+                                <td class="text-center">
+                                    <form asp-action="DeleteClub" method="post">
+                                        <a asp-action="UpdateViews" class="text-white btn btn-sm btn-warning"
+                                           asp-route-clubId="@c.ClubID" asp-controller="Admin">
+                                            Update
+                                        </a>
+                                        <input type="hidden" name="ClubID" value="@c.ClubID" />
+                                        <button type="submit" class="text-white btn btn-danger btn-sm">
+                                            Delete
+                                        </button>
+                                    </form>
+                                </td>
+                            </tr>
+                        }
+                    </table>
+                    @*@if (TempData["message"] != null)
+                    {
+                        <div class="alert alert-success">@TempData["message"]</div>
+                    }*@
+                </div>
+            </div>
+        </section>
+    </header>
+</body>
+

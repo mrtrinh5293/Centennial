@@ -1,0 +1,110 @@
+C:\Users\mrtri\OneDrive\Desktop\SoccerClubManagement\SoccerClubManagement\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\mrtri\OneDrive\Desktop\SoccerClubManagement\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.deps.json
+C:\Users\mrtri\OneDrive\Desktop\SoccerClubManagement\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.json
+C:\Users\mrtri\OneDrive\Desktop\SoccerClubManagement\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.dev.json
+C:\Users\mrtri\OneDrive\Desktop\SoccerClubManagement\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\mrtri\OneDrive\Desktop\SoccerClubManagement\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.csprojAssemblyReference.cache
+C:\Users\mrtri\OneDrive\Desktop\SoccerClubManagement\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfoInputs.cache
+C:\Users\mrtri\OneDrive\Desktop\SoccerClubManagement\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfo.cs
+C:\Users\mrtri\OneDrive\Desktop\SoccerClubManagement\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.pdb
+C:\Users\mrtri\OneDrive\Desktop\SoccerClubManagement\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\mrtri\OneDrive\Desktop\SoccerClubManagement\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.pdb
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.deps.json
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.json
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.dev.json
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.pdb
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.csprojAssemblyReference.cache
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfoInputs.cache
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfo.cs
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.pdb
+C:\Users\301091105\Downloads\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\301091105\Downloads\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.deps.json
+C:\Users\301091105\Downloads\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.json
+C:\Users\301091105\Downloads\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.dev.json
+C:\Users\301091105\Downloads\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\301091105\Downloads\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.pdb
+C:\Users\301091105\Downloads\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.csprojAssemblyReference.cache
+C:\Users\301091105\Downloads\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfoInputs.cache
+C:\Users\301091105\Downloads\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfo.cs
+C:\Users\301091105\Downloads\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\301091105\Downloads\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.pdb
+C:\Users\mrtri\Downloads\Duc_D_301091105\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\mrtri\Downloads\Duc_D_301091105\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\mrtri\Downloads\Duc_D_301091105\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.deps.json
+C:\Users\mrtri\Downloads\Duc_D_301091105\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.json
+C:\Users\mrtri\Downloads\Duc_D_301091105\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.dev.json
+C:\Users\mrtri\Downloads\Duc_D_301091105\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\mrtri\Downloads\Duc_D_301091105\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.pdb
+C:\Users\mrtri\Downloads\Duc_D_301091105\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.csprojAssemblyReference.cache
+C:\Users\mrtri\Downloads\Duc_D_301091105\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfoInputs.cache
+C:\Users\mrtri\Downloads\Duc_D_301091105\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfo.cs
+C:\Users\mrtri\Downloads\Duc_D_301091105\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\mrtri\Downloads\Duc_D_301091105\Duc_D_301091105\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.pdb
+C:\Users\301091105\Downloads\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\301091105\Downloads\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\301091105\Downloads\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.deps.json
+C:\Users\301091105\Downloads\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.json
+C:\Users\301091105\Downloads\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.dev.json
+C:\Users\301091105\Downloads\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\301091105\Downloads\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.pdb
+C:\Users\301091105\Downloads\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.csprojAssemblyReference.cache
+C:\Users\301091105\Downloads\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfoInputs.cache
+C:\Users\301091105\Downloads\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfo.cs
+C:\Users\301091105\Downloads\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\301091105\Downloads\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.pdb
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105_1\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105_1\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105_1\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.deps.json
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105_1\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.json
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105_1\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.dev.json
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105_1\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105_1\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.pdb
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105_1\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.csprojAssemblyReference.cache
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105_1\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfoInputs.cache
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105_1\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfo.cs
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105_1\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105_1\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.pdb
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.deps.json
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.json
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.dev.json
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.pdb
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.csprojAssemblyReference.cache
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfoInputs.cache
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfo.cs
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.pdb
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\Duc_D_301091105_1\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\mrtri\OneDrive\Desktop\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\mrtri\OneDrive\Desktop\fixed Julio\uptoASs4\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\mrtri\OneDrive\Desktop\fixed Julio\uptoASs4\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\mrtri\OneDrive\Desktop\fixed Julio\uptoASs4\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\mrtri\OneDrive\Desktop\fixed Julio\uptoASs4\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.deps.json
+C:\Users\mrtri\OneDrive\Desktop\fixed Julio\uptoASs4\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.json
+C:\Users\mrtri\OneDrive\Desktop\fixed Julio\uptoASs4\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.dev.json
+C:\Users\mrtri\OneDrive\Desktop\fixed Julio\uptoASs4\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\mrtri\OneDrive\Desktop\fixed Julio\uptoASs4\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.pdb
+C:\Users\mrtri\OneDrive\Desktop\fixed Julio\uptoASs4\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.csprojAssemblyReference.cache
+C:\Users\mrtri\OneDrive\Desktop\fixed Julio\uptoASs4\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfoInputs.cache
+C:\Users\mrtri\OneDrive\Desktop\fixed Julio\uptoASs4\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfo.cs
+C:\Users\mrtri\OneDrive\Desktop\fixed Julio\uptoASs4\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\mrtri\OneDrive\Desktop\fixed Julio\uptoASs4\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.pdb
+C:\Users\mrtri\OneDrive\Desktop\FinalProjectASP\uptoASs4\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\mrtri\OneDrive\Desktop\FinalProjectASP\uptoASs4\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\mrtri\OneDrive\Desktop\FinalProjectASP\uptoASs4\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\mrtri\OneDrive\Desktop\FinalProjectASP\uptoASs4\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.deps.json
+C:\Users\mrtri\OneDrive\Desktop\FinalProjectASP\uptoASs4\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.json
+C:\Users\mrtri\OneDrive\Desktop\FinalProjectASP\uptoASs4\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.runtimeconfig.dev.json
+C:\Users\mrtri\OneDrive\Desktop\FinalProjectASP\uptoASs4\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\mrtri\OneDrive\Desktop\FinalProjectASP\uptoASs4\Duc_D_301091105\SoccerClubManagement\bin\Debug\netcoreapp2.0\SoccerClubManagement.pdb
+C:\Users\mrtri\OneDrive\Desktop\FinalProjectASP\uptoASs4\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.csprojAssemblyReference.cache
+C:\Users\mrtri\OneDrive\Desktop\FinalProjectASP\uptoASs4\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfoInputs.cache
+C:\Users\mrtri\OneDrive\Desktop\FinalProjectASP\uptoASs4\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.AssemblyInfo.cs
+C:\Users\mrtri\OneDrive\Desktop\FinalProjectASP\uptoASs4\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.dll
+C:\Users\mrtri\OneDrive\Desktop\FinalProjectASP\uptoASs4\Duc_D_301091105\SoccerClubManagement\obj\Debug\netcoreapp2.0\SoccerClubManagement.pdb

@@ -1,0 +1,27 @@
+C:\Users\THANOS\Downloads\DucDang\DucDang\CodeExamples_Asynchronous-Programming\FibonacciAsynchronous\FibonacciAsynchronous\bin\Debug\FibonacciSynchronous.exe.config
+C:\Users\THANOS\Downloads\DucDang\DucDang\CodeExamples_Asynchronous-Programming\FibonacciAsynchronous\FibonacciAsynchronous\bin\Debug\FibonacciSynchronous.exe
+C:\Users\THANOS\Downloads\DucDang\DucDang\CodeExamples_Asynchronous-Programming\FibonacciAsynchronous\FibonacciAsynchronous\bin\Debug\FibonacciSynchronous.pdb
+C:\Users\THANOS\Downloads\DucDang\DucDang\CodeExamples_Asynchronous-Programming\FibonacciAsynchronous\FibonacciAsynchronous\obj\Debug\Excercise03.csprojResolveAssemblyReference.cache
+C:\Users\THANOS\Downloads\DucDang\DucDang\CodeExamples_Asynchronous-Programming\FibonacciAsynchronous\FibonacciAsynchronous\obj\Debug\FibonacciFactorialRollDieAsynchronous.AsynchronousTestForm.resources
+C:\Users\THANOS\Downloads\DucDang\DucDang\CodeExamples_Asynchronous-Programming\FibonacciAsynchronous\FibonacciAsynchronous\obj\Debug\FibonacciAsynchronous.Properties.Resources.resources
+C:\Users\THANOS\Downloads\DucDang\DucDang\CodeExamples_Asynchronous-Programming\FibonacciAsynchronous\FibonacciAsynchronous\obj\Debug\Excercise03.csproj.GenerateResource.Cache
+C:\Users\THANOS\Downloads\DucDang\DucDang\CodeExamples_Asynchronous-Programming\FibonacciAsynchronous\FibonacciAsynchronous\obj\Debug\FibonacciSynchronous.exe
+C:\Users\THANOS\Downloads\DucDang\DucDang\CodeExamples_Asynchronous-Programming\FibonacciAsynchronous\FibonacciAsynchronous\obj\Debug\FibonacciSynchronous.pdb
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Excercise03\bin\Debug\Example03.exe.config
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Excercise03\bin\Debug\Example03.exe
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Excercise03\bin\Debug\Example03.pdb
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Excercise03\obj\Debug\Excercise03.csprojResolveAssemblyReference.cache
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Excercise03\obj\Debug\FibonacciFactorialRollDieAsynchronous.AsynchronousTestForm.resources
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Excercise03\obj\Debug\Example03.Properties.Resources.resources
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Excercise03\obj\Debug\Excercise03.csproj.GenerateResource.Cache
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Excercise03\obj\Debug\Example03.exe
+C:\Users\THANOS\Downloads\DucDang\DucDang\Duc_Dang_COMP212_Sec003_Test02\Excercise03\obj\Debug\Example03.pdb
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Excercise03\bin\Debug\Example03.exe.config
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Excercise03\bin\Debug\Example03.exe
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Excercise03\bin\Debug\Example03.pdb
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Excercise03\obj\Debug\Excercise03.csprojAssemblyReference.cache
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Excercise03\obj\Debug\FibonacciFactorialRollDieAsynchronous.AsynchronousTestForm.resources
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Excercise03\obj\Debug\Example03.Properties.Resources.resources
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Excercise03\obj\Debug\Excercise03.csproj.GenerateResource.cache
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Excercise03\obj\Debug\Example03.exe
+C:\Users\mrtri\Downloads\Duc_Dang_COMP212_Sec003_Test02 (1)\Duc_Dang_COMP212_Sec003_Test02\Excercise03\obj\Debug\Example03.pdb

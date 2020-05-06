@@ -1,0 +1,45 @@
+﻿@*@model Club*@
+@model IEnumerable<Club>
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="~/css/test.css" />
+    <title>AddClub</title>
+</head>
+<body>
+    <header class="masthead">
+        <section class="min-vh-100">
+            <div class="background">
+                <div class="row">
+                    <div class="text-center text-white col-lg-5 background">
+                        <h1 class="text-center text-white">Club Details </h1>
+                    </div>
+                    <div class="col-lg-5 text-center text-white">
+                        <h1 class="text-center text-white">Player Details </h1>
+                    </div>
+                    </div>
+                    @foreach (Club c in Model)
+                    {
+                        <div class="row " style="background-color: rgba(0,0,0,0.3); margin: 2rem">
+                            <div class="text-center text-white col-lg-5 background">
+                                <h4>Club Name</h4>
+                                <p>@c.ClubName</p>
+                                <h4>Email Address</h4>
+                                <p>@c.ClubEmail</p>
+                                <h4>Phone Number</h4>
+                                <p>@c.ClubPhoneNumber</p>
+                            </div>
+                            <div class="col-lg-7 text-center text-white">
+                                @Html.Partial("PlayerList", c.Players)
+
+                            </div>
+                        </div>
+                    }
+                </div>
+</section>
+    </header>
+</body>
+</html>

@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Club>
+@*@model ClubPlayerDetailViews*@
+@{
+    ViewData["Title"] = "ClubListViews";
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+
+<head>
+    <link href="~/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+
+</head>
+        <title>AddClub</title>
+        <body class="m-1 p-1">
+            <header class="masthead">
+                <section class="min-vh-100">
+                    <div class="background">
+
+                        @*<h1 class="text-white">Don't have a Club? <a class="btn btn-primary" asp-action="AddClubViews">Add Club</a></h1>*@
+                        <div class=" col-xl-5 col-lg-6 col-md-8 col-sm-10 mx-auto text-center p-4">
+                            <table class="bg-white text-white table table-striped table-bordered table-sm">
+                                <tr class="bg-info">
+                                    <th>Club Name</th>
+                                    <th>Contact Information</th>
+                                    @*<th class="text-center">Actions</th>*@
+                                </tr>
+                                @foreach (Club c in Model)
+                                {
+                                    <tr>
+                                        <td><a asp-action="ClubDetailsViews" asp-route-ClubName="@c.ClubName">@c.ClubName</a></td>
+                                        <td class="text-black-50">@c.ClubPhoneNumber</td>
+                                    </tr>
+                                }
+                            </table>
+                        </div>
+                    </div>
+                </section>
+            </header>
+        </body>

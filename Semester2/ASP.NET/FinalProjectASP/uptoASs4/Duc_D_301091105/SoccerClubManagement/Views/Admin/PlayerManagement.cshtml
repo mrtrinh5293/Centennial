@@ -1,0 +1,60 @@
+﻿@model Player
+@{
+        ViewData["Title"] = "PlayerManagement";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+    <!DOCTYPE html>
+
+        <html>
+        <head>
+            <title>Add Player</title>
+        </head>
+        <body>
+            <header class="masthead">
+                <section class="min-vh-100">
+                    <div class="container background">
+                        <div class="row text-white">
+                            <div class="col-xl-5 col-lg-6 col-md-8 col-sm-10 mx-auto text-center form p-4">
+                                <h1 class="">Add Player Form </h1>
+                                <div class="px-2">
+                                    <form asp-action="PlayerManagement" method="post" class="justify-content-center form">
+                                        <div asp-validation-summary="All"></div>
+                                        <input type="hidden" asp-for="PlayerID" />
+                                        <div class="form-group">
+                                            <div><span asp-validation-for="PlayerName" class="text-danger"></span></div>
+                                            <input asp-for="PlayerName" class="form-control" placeholder="Enter Player Name" />
+                                        </div>
+                                        <div class="form-group">
+                                            <div><span asp-validation-for="PlayerAge" class="text-danger"></span></div>
+                                            <input asp-for="PlayerAge" class="form-control" placeholder="Enter Player Age" />
+                                        </div>
+                                        <div class="form-group radio">
+                                            <div><span asp-validation-for="PlayerHeight" class="text-danger"></span></div>
+                                            <input asp-for="PlayerHeight" class="form-control" placeholder="Enter Player Height" />
+                                        </div>
+                                        <div class="form-group">
+                                            <div><span asp-validation-for="PlayerWeight" class="text-danger"></span></div>
+                                            <input asp-for="PlayerWeight" class="form-control" placeholder="Enter Player Weight" />
+                                        </div>
+                                        <tr>
+                                            <td><label asp-for="ClubID">Add to Club:</label></td>
+                                            <td>
+                                                <select asp-for="ClubID" class="form-control"
+                                                        asp-items="@(new SelectList(@ViewBag.ListOfClubs,"ClubID", "ClubName"))"></select>
+                                            </td>
+                                        </tr>
+                                        <button type="submit" class="btn btn-primary btn-lg">Add Player</button>
+                                        <button class="btn btn-primary btn-lg" asp-controller="Admin" asp-action="ClubDetailsViews">Cancel</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+            </header>
+
+        </body>
+        </html>
+
+

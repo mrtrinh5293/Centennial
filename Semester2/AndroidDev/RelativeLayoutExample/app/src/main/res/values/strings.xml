@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RelativeLayoutExample</string>
+    <string name="button1">Hello</string>
+    <string name="button2">Welcome</string>
+</resources>

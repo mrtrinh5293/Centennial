@@ -1,0 +1,11 @@
+C:\Users\mrtri\source\repos\Exercise1\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.exe
+C:\Users\mrtri\source\repos\Exercise1\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.deps.json
+C:\Users\mrtri\source\repos\Exercise1\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.runtimeconfig.json
+C:\Users\mrtri\source\repos\Exercise1\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.runtimeconfig.dev.json
+C:\Users\mrtri\source\repos\Exercise1\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.dll
+C:\Users\mrtri\source\repos\Exercise1\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.pdb
+C:\Users\mrtri\source\repos\Exercise1\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.csprojAssemblyReference.cache
+C:\Users\mrtri\source\repos\Exercise1\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.AssemblyInfoInputs.cache
+C:\Users\mrtri\source\repos\Exercise1\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.AssemblyInfo.cs
+C:\Users\mrtri\source\repos\Exercise1\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.dll
+C:\Users\mrtri\source\repos\Exercise1\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.pdb

@@ -1,0 +1,14 @@
+﻿@model Club
+    <div class="form-group">
+        <div><span asp-validation-for="ClubName" class="text-danger"></span></div>
+        <input asp-for="ClubName" class="form-control" placeholder="Enter Club Name"/>
+    </div>
+    <div class="form-group">
+        <div><span asp-validation-for="ClubEmail" class="text-danger"></span></div>
+        <input asp-for="ClubEmail" class="form-control" placeholder="Enter Club Email" />
+    </div>
+    <div class="form-group">
+        <div><span asp-validation-for="ClubPhoneNumber" class="text-danger"></span></div>
+        <input type="number" asp-for="ClubPhoneNumber" placeholder="Enter Club Phone Number" class="form-control" />
+    </div>
+                                   

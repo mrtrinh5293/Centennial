@@ -1,0 +1,32 @@
+﻿ @model PartyInvites.Models.GuestResponse
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+    <title>Thanks</title>
+</head>
+<body class="text-center">
+    <p>
+        <h1>Thanks @Model.Name</h1>
+        @if (@Model.WillAttend == true)
+        {
+            //@: is not c# code just for adding text
+            @: It is great that you are comming!
+
+        }
+        else
+        {
+            @:Sorry  that you can't come
+        }
+    <p>Click <a class="navbar-link" asp-action="ListResponses">here</a></p>
+            
+    </p>
+</body>
+</html>

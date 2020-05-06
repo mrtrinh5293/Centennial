@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assigment2_SecondEx</string>
+    <string name="buttonAI">AIActivity</string>
+    <string name="buttonAR">VRActivity</string>
+</resources>

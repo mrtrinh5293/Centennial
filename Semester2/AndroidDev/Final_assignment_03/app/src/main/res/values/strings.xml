@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Final_assignment_03</string>
+    <string
+        name="tween">Assignment3</string>
+
+    <string-array name="activities">
+
+        <item>Exercise1</item>
+        <item>Exercise2</item>
+        <item>Exercise3</item>
+
+
+    </string-array>
+</resources>

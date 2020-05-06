@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Player>
+
+
+<div id="conteiner" class="lists">
+    <table style="border-spacing:50px 0px; border-collapse: separate;">
+        <thead>
+            <tr>
+                <th>Player Name</th>
+                <th>Player Age</th>
+                <th>Player Weight</th>
+                <th>Player Height</th>
+                <th class="text-center">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Player p in Model)
+            {
+                if (User.Identity.IsAuthenticated)
+                {
+                    <tr>
+                        <td>@p.PlayerName</td>
+                        <td>@p.PlayerAge</td>
+                        <td>@p.PlayerWeight</td>
+                        <td>@p.PlayerHeight</td>
+                        <td class="text-center">
+                            <form asp-action="DeletePlayer" method="post">
+                                <a asp-action="EditPlayers" asp-controller="Admin" class="text-white btn btn-sm btn-warning justify-content-center btn btn-primary"
+                                   asp-route-playerId="@p.PlayerID" asp-route-clubID="@p.ClubID">Update</a>
+                                <input type="hidden" name="PlayerID" value="@p.PlayerID" />
+                                <button type="submit" class="text-white btn btn-danger btn-sm justify-content-center btn-primary">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+                if (!User.Identity.IsAuthenticated)
+                {
+                    <tr >
+                        <td>@p.PlayerName</td>
+                        <td>@p.PlayerAge</td>
+                        <td>@p.PlayerWeight</td>
+                        <td>@p.PlayerHeight</td>
+                    </tr>
+            }
+        }
+            </tbody>
+        </table>
+</div>

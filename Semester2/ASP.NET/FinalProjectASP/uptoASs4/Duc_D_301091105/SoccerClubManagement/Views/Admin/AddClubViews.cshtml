@@ -1,0 +1,28 @@
+﻿@model Club
+<html>
+<body>
+
+    <header class="masthead">
+        <section class="min-vh-100">
+            <div class="container">
+                <div class="row text-white">
+                    <div class="col-xl-5 col-lg-6 col-md-8 col-sm-10 mx-auto text-center form p-4">
+                        <h1 class="">Add Club Form </h1>
+                        <div class="px-2">
+                            <form asp-action="AddClubViews" method="post" class="justify-content-center form">
+                                @*<form asp-action="ClubListViews" method="post" class="justify-content-center form">*@
+                                @Html.Partial("AddClubForm")
+                                <button type="submit" class="btn btn-primary btn-lg">Save Club</button>
+                                <button class="btn btn-primary btn-lg" asp-action="Index">Cancel</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </header>
+</body>
+</html>
+
+
+
